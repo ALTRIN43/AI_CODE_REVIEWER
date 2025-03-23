@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Configure Google AI API (Replace with your actual API Key)
-genai.configure(api_key="AIzaSyAQmjS-Q2gXlDLzgGtlftrg7owtsSdmQ_c")
+genai.configure(api_key="Replace with your api")
 
 def generate_fixed_code(original_code, errors):
     prompt = f"""

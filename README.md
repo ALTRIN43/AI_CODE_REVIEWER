@@ -34,6 +34,7 @@ Open config.py and replace YOUR_GEMINI_API_KEY with your actual API key.
 ## Usage
    **Run the project:** <br>
          cd python main.py
+         
 
 2. **Click 📂 Select and Review File to choose a file for analysis.**
 3. **Click 🎙️ Use Voice Command and say:** <br>
@@ -79,4 +80,4 @@ Check your microphone and try again in a quieter environment.<br>
 ALTRIN | ADHITHYAN - Developer & Maintainer
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License

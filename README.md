@@ -76,8 +76,8 @@ Check your microphone and try again in a quieter environment.<br>
 🔹 Improve AI corrections with more context-aware fixes<br>
 🔹 Enhance UI design with better themes<br>
 
-## 👥 Contributors
-ALTRIN | ADHITHYAN - Developer & Maintainer
+## Author
+ALTRIN - Developer & Maintainer
 
 ## 📜 License
 This project is licensed under the MIT License
